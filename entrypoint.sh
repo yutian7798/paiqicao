@@ -38,6 +38,8 @@ else
   VER="v$VER"
 fi
 
+export V2RAY_VMESS_AEAD_FORCED=false
+
 mkdir /xraybin
 cd /xraybin
 RAY_URL="https://github.com/XTLS/Xray-core/releases/download/${VER}/Xray-linux-64.zip"
