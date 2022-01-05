@@ -34,7 +34,7 @@
 
     "VER": {
        "description": "Xray版本，默认latest安装最新版本，可以去https://github.com/XTLS/Xray-core/releases选择版本 （例如：1.2.2)",
-       "value": "latest"
+       "value": "1.5.0"
      }
   },
   "website": "",
